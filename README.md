@@ -6,10 +6,10 @@ Image segmentation on the Oxford-iiit pet dataset using CNNs, GNNs, and U-Nets. 
      alt="prediction of SCG-net with AE"
      style="float: left; margin-right: 10px;" />
 
-This brought me to try U-net too. The results of this model were acceptable as can be seen below:
+This brought me to try U-Net too. The results of this model were acceptable as can be seen below:
 
 <img src="img/example_pred_unet.png"
      alt="prediction of U-net"
      style="float: left; margin-right: 10px;" />
 
-All methods could have worked better with longer training times, but my hardware and patience are limited. I have also changed/improved U-nets architecture successfully, but the model is for now not to be published because of a university project.
+All methods could have worked better with longer training times, but my hardware and patience are limited. The weights of SCG-Net are in the repo, the U-Net weights take up too much space. I have also changed/improved U-Nets architecture successfully, but the model is for now not to be published because of a university project.
