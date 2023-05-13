@@ -12,4 +12,4 @@ This brought me to try U-net too. The results of this model were acceptable as c
      alt="prediction of U-net"
      style="float: left; margin-right: 10px;" />
 
-Both methods could have worked better with longer training times, but my hardware and patience are limited.
+All methods could have worked better with longer training times, but my hardware and patience are limited. I have also changed/improved U-nets architecture successfully, but the model is for now not to be published because of a university project.
